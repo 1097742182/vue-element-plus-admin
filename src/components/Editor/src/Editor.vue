@@ -121,7 +121,7 @@ watch(
       :defaultHtml="defaultHtml"
       :style="editorStyle"
       @on-change="handleChange"
-      @onCreated="handleCreated"
+      @on-created="handleCreated"
     />
   </div>
 </template>
